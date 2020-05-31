@@ -8,3 +8,10 @@
 ## again secound lavel hedding
 
 This is 3rd paragraph adding some useless text for practice purpose only
+
+## Adding 3rd column 
+This is an kay sangava atta 
+
+I wok up 8 AM this morning,  
+
+
